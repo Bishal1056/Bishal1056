@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Bishal Biswas. I am a Computer Science undergrad at Memorial University of Newfoundland. 
-- 👀 I’m interested in a lot of things. But mostly technology related. 
-- 🌱 I’m currently doing some personal projects which are related to the course I am taking as of right now. 
+- 👋 Hi, I’m Bishal Biswas. I have completed my Bachelors in Computer Science from Memorial University of Newfoundland (MUN)and looking for jobs. 
+- 👀 I'm interested in unique and new technologies. CES fest is the best thing there is (my opinion).  
+- 🌱 I’m currently doing some personal projects and further modifications to my existing ones for learning purposes. 
 - 💞️ You can check them out. If you find anything interesting let me know I will add you to the project and you can help me to learn more. Or If you want to collaborate with me let me know.  
 - 📫 Say hi at bishal1056@gmail.com. Let's start from there. 
 
