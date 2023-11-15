@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bishal Biswas. I have completed my Bachelors in Computer Science from Memorial University of Newfoundland (MUN)and looking for jobs. 
+- 👋 Hi, I’m Bishal Biswas. I am a web application developer.  
 - 👀 I'm interested in unique and new technologies. CES fest is the best thing there is (my opinion).  
 - 🌱 I’m currently doing some personal projects and further modifications to my existing ones for learning purposes. 
 - 💞️ You can check them out. If you find anything interesting let me know I will add you to the project and you can help me to learn more. Or If you want to collaborate with me let me know.  
